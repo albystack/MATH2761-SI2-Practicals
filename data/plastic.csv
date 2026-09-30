@@ -1,0 +1,210 @@
+"Country","Code","Region","GDP","IncomeStatus","Population","CoastalPopPC","UrbanPopPC","PlasticWaste","MismanagedPW"
+"Afghanistan","AFG","South Asia",509.2186613,"LIC",35383128,0,25.02,11.45,NA
+"Albania","ALB","Europe & Central Asia",4124.055726,"UMC",2876101,7.07,58.42,39.32,NA
+"Algeria","DZA","Middle East & North Africa",3945.482081,"UMC",40551404,0.76,71.46,51.59,1.03
+"American Samoa","ASM","East Asia & Pacific",11696.95556,"UMC",55741,3.27,87.2,43.61,NA
+"Andorra","AND","Europe & Central Asia",37474.66541,"HIC",77297,0,88.25,63.73,31.8
+"Angola","AGO","Sub-Saharan Africa",3506.072885,"LMC",28842484,1.44,64.15,22.6,NA
+"Antigua and Barbuda","ATG","Latin America & Caribbean",15197.61746,"HIC",94527,11.83,24.85,45.71,1.48
+"Argentina","ARG","Latin America & Caribbean",12790.24247,"HIC",43590368,3.03,91.63,60.95,14.99
+"Armenia","ARM","Europe & Central Asia",3591.829276,"UMC",2936146,0,63.08,19.47,19.47
+"Aruba","ABW","Latin America & Caribbean",28281.35048,"HIC",104872,7.07,43.19,132.53,120.6
+"Australia","AUS","East Asia & Pacific",49971.13146,"HIC",24190907,4.52,85.8,42.79,0.86
+"Austria","AUT","Europe & Central Asia",45276.83144,"HIC",8736668,0,57.91,62.09,2.62
+"Azerbaijan","AZE","Europe & Central Asia",3880.738731,"UMC",9757812,0,55.02,23.4,23.4
+"Bahamas, The","BHS","Latin America & Caribbean",31562.63974,"HIC",377931,20.28,82.83,90.79,NA
+"Bahrain","BHR","Middle East & North Africa",22608.48428,"HIC",1425791,34.28,89.09,49.41,0.99
+"Bangladesh","BGD","South Asia",1401.620628,"LMC",157970840,8.92,35.08,4.84,4.69
+"Barbados","BRB","Latin America & Caribbean",16900.16655,"HIC",285796,0.71,31.19,106.96,3.21
+"Belarus","BLR","Europe & Central Asia",5022.626643,"UMC",9501534,0,77.66,53.39,4.86
+"Belgium","BEL","Europe & Central Asia",41984.10303,"HIC",11331422,11.17,97.92,58.55,2.49
+"Belize","BLZ","Latin America & Caribbean",4818.403909,"UMC",368400,20.53,45.5,52.83,35.93
+"Benin","BEN","Sub-Saharan Africa",1087.287832,"LIC",10872067,11.85,46.23,9.41,7.25
+"Bermuda","BMU","North America",106885.8785,"HIC",64554,11.86,100,205.93,4.12
+"Bhutan","BTN","South Asia",2930.562989,"LMC",736709,0,39.43,26.94,0.54
+"Bolivia","BOL","Latin America & Caribbean",3076.65895,"LMC",11031813,0,68.74,21.04,12.1
+"Bosnia and Herzegovina","BIH","Europe & Central Asia",4994.68314,"UMC",3386267,0.11,47.52,41.9,29.05
+"Botswana","BWA","Sub-Saharan Africa",7243.870253,"UMC",2159944,0,67.93,11.45,11.46
+"Brazil","BRA","Latin America & Caribbean",8710.09669,"UMC",206163058,2.56,86.04,51.78,13.05
+"British Virgin Islands","VGB","Latin America & Caribbean",0,"HIC",29355,12.01,46.96,90.05,19.54
+"Brunei Darussalam","BRN","East Asia & Pacific",27157.82341,"HIC",419800,1.61,76.99,82.42,24.73
+"Bulgaria","BGR","Europe & Central Asia",7548.855007,"UMC",7127822,0.74,74.33,51.98,10.52
+"Burkina Faso","BFA","Sub-Saharan Africa",688.2496628,"LIC",18646378,0,28.13,12.84,11.01
+"Burundi","BDI","Sub-Saharan Africa",282.1931304,"LIC",10487998,0,12.39,9.84,NA
+"Cambodia","KHM","East Asia & Pacific",1269.591257,"LMC",15766293,7.19,22.58,6.33,6.33
+"Cameroon","CMR","Sub-Saharan Africa",1364.33011,"LMC",23926539,0.46,55.18,5,4.11
+"Canada","CAN","North America",42322.48478,"HIC",36109487,2.22,81.3,21.32,0.43
+"Cayman Islands","CYM","Latin America & Caribbean",78465.35733,"HIC",62569,12.07,100,133.86,108.43
+"Central African Republic","CAF","Sub-Saharan Africa",402.1912906,"LIC",4537687,0,40.62,18.3,NA
+"Chad","TCD","Sub-Saharan Africa",693.4493865,"LIC",14561666,0,22.68,6.78,NA
+"Chile","CHL","Latin America & Caribbean",13753.59444,"HIC",18209068,0.37,87.42,38.88,6.14
+"China","CHN","East Asia & Pacific",8147.937705,"UMC",1378665000,6.55,56.74,15.67,3.96
+"Colombia","COL","Latin America & Caribbean",5870.777957,"UMC",48175048,1.22,80.11,35.89,2.15
+"Comoros","COM","Sub-Saharan Africa",1273.058953,"LIC",795592,0.72,28.62,5.85,NA
+"Congo, Dem. Rep.","COD","Sub-Saharan Africa",471.3188404,"LIC",78789127,0.04,43.31,13.69,13.3
+"Congo, Rep.","COG","Sub-Saharan Africa",2074.970159,"LMC",4980999,0.48,66,17.59,13.34
+"Costa Rica","CRI","Latin America & Caribbean",11666.45591,"UMC",4899345,0.36,77.74,34.26,3.8
+"Cote d'Ivoire","CIV","Sub-Saharan Africa",2013.382462,"LMC",23822714,3.76,49.88,22.73,22.5
+"Croatia","HRV","Europe & Central Asia",12361.48383,"HIC",4174349,1.85,56.4,92.39,3.92
+"Cuba","CUB","Latin America & Caribbean",8060.795886,"UMC",11335109,2.91,76.93,23.87,14.76
+"Curacao","CUW","Latin America & Caribbean",19555.36585,"HIC",159664,0,89.27,24.89,24.89
+"Cyprus","CYP","Europe & Central Asia",24532.51906,"HIC",1170187,5.64,66.88,69.62,6.67
+"Czech Republic","CZE","Europe & Central Asia",18575.23203,"HIC",10566332,0,73.57,7.06,0.14
+"Denmark","DNK","Europe & Central Asia",54663.99837,"HIC",5728010,16.34,87.64,12.73,0.26
+"Djibouti","DJI","Middle East & North Africa",2802.197051,"LMC",929112,12.35,77.53,18.86,NA
+"Dominica","DMA","Latin America & Caribbean",8080.968623,"UMC",71307,0.98,69.88,30.39,2.43
+"Dominican Republic","DOM","Latin America & Caribbean",7280.880109,"UMC",10397743,1.23,79.44,40.42,37.87
+"Ecuador","ECU","Latin America & Caribbean",6060.093329,"UMC",16491115,5.19,63.53,36.82,13.21
+"Egypt","EGY","Middle East & North Africa",3519.873203,"LMC",94447072,21.52,42.73,32.16,28.79
+"El Salvador","SLV","Latin America & Caribbean",3805.993666,"LMC",6356143,0.5,70.5,28.11,6.69
+"Equatorial Guinea","GNQ","Sub-Saharan Africa",9250.331953,"UMC",1215179,0.95,71.14,16,NA
+"Eritrea","ERI","Sub-Saharan Africa",642.5,"LIC",3213970,0.77,0,11.72,NA
+"Estonia","EST","Europe & Central Asia",18437.25282,"HIC",1315790,2.91,68.56,67.26,10.02
+"Eswatini","SWZ","Sub-Saharan Africa",3425.559509,"LMC",1113984,0,23.46,19.2,NA
+"Ethiopia","ETH","Sub-Saharan Africa",717.1245929,"LIC",103603501,0,19.87,1.49,1.49
+"Faeroe Islands","FRO","Europe & Central Asia",56854.10265,"HIC",48173,6.77,41.78,167.53,58.64
+"Fiji","FJI","East Asia & Pacific",5651.318055,"UMC",872399,4.89,55.24,17.73,10.21
+"Finland","FIN","Europe & Central Asia",43784.28396,"HIC",5495303,1.86,85.28,7.31,0.15
+"France","FRA","Europe & Central Asia",37037.37419,"HIC",66724104,2.89,79.92,43.81,0.89
+"French Polynesia","PYF","East Asia & Pacific",14323.8,"HIC",274575,4.97,61.73,10.17,6.41
+"Gabon","GAB","Sub-Saharan Africa",6984.451019,"UMC",2007873,4.94,88.56,19.72,NA
+"Gambia, The","GMB","Sub-Saharan Africa",690.778886,"LIC",2149139,23.53,59.92,10.53,NA
+"Georgia","GEO","Europe & Central Asia",4062.169888,"LMC",3727505,2.76,57.84,6.88,NA
+"Germany","DEU","Europe & Central Asia",42107.51727,"HIC",82348669,4.04,77.22,81.16,3.26
+"Ghana","GHA","Sub-Saharan Africa",1931.38947,"LMC",28481946,2.62,54.75,7.43,NA
+"Greece","GRC","Europe & Central Asia",18116.45965,"HIC",10775971,4.49,78.39,73.23,2.2
+"Greenland","GRL","Europe & Central Asia",48181.87419,"HIC",56186,46.46,86.33,22.9,0.46
+"Grenada","GRD","Latin America & Caribbean",9628.347487,"UMC",110261,1.89,36.07,48.13,1.69
+"Guam","GUM","East Asia & Pacific",35562.83791,"HIC",162951,1.25,94.62,102.39,20.63
+"Guatemala","GTM","Latin America & Caribbean",4173.301666,"UMC",15827690,0.21,50.32,29.45,23.76
+"Guinea","GIN","Sub-Saharan Africa",732.2910752,"LIC",11738441,6.05,35.46,3.21,3.11
+"Guinea-Bissau","GNB","Sub-Saharan Africa",661.4567254,"LIC",1782437,15.26,42.53,12.52,NA
+"Guyana","GUY","Latin America & Caribbean",5811.375322,"UMC",771366,27.87,26.48,37.27,20.66
+"Haiti","HTI","Latin America & Caribbean",1265.987633,"LIC",10839970,1.87,53.4,27.06,24.91
+"Honduras","HND","Latin America & Caribbean",2342.584651,"LMC",9270795,0.9,55.81,33.61,10.35
+"Hong Kong SAR, China","HKG","East Asia & Pacific",43731.10682,"HIC",7336600,10.33,100,163.45,3.27
+"Hungary","HUN","Europe & Central Asia",13090.50673,"HIC",9814023,0,70.78,49.22,1.01
+"Iceland","ISL","Europe & Central Asia",61466.80395,"HIC",335439,7.56,93.74,144.8,16.13
+"India","IND","South Asia",1732.564262,"LMC",1324509589,2.66,33.18,19.88,15.7
+"Indonesia","IDN","East Asia & Pacific",3562.845756,"LMC",261554226,7.37,53.99,34.9,21.11
+"Iran, Islamic Rep.","IRN","Middle East & North Africa",5253.42491,"UMC",79564016,1.27,73.88,18.86,14.01
+"Iraq","IRQ","Middle East & North Africa",4777.197619,"UMC",36610632,5.81,70.09,20.18,20.18
+"Ireland","IRL","Europe & Central Asia",63197.0824,"HIC",4755335,4.77,62.74,82.33,4.12
+"Isle of Man","IMN","Europe & Central Asia",82206.009,"HIC",83287,3.52,52.34,83.07,1.66
+"Israel","ISR","Middle East & North Africa",37321.62404,"HIC",8546000,1.57,92.26,112.1,2.24
+"Italy","ITA","Europe & Central Asia",30939.71425,"HIC",60627498,5.66,69.86,55.51,7.23
+"Jamaica","JAM","Latin America & Caribbean",4843.338474,"UMC",2906238,3.63,55.1,44.15,16.78
+"Japan","JPN","East Asia & Pacific",38761.81815,"HIC",126994511,12.65,91.46,38.44,5.88
+"Jordan","JOR","Middle East & North Africa",4176.58891,"UMC",9551467,0,90.51,46.79,27.61
+"Kazakhstan","KAZ","Europe & Central Asia",7714.841844,"UMC",17794055,0,57.26,72.02,71.36
+"Kenya","KEN","Sub-Saharan Africa",1410.527568,"LMC",49051686,0.41,26.11,26.09,24.53
+"Kiribati","KIR","East Asia & Pacific",1584.807446,"LMC",112524,20.57,52.45,52.38,NA
+"Korea, Rep.","KOR","East Asia & Pacific",29288.87044,"HIC",51217803,3.04,81.56,88.09,1.76
+"Kuwait","KWT","Middle East & North Africa",27653.06677,"HIC",3956875,17.4,100,115.77,115.77
+"Kyrgyz Republic","KGZ","Europe & Central Asia",1120.666513,"LMC",6079500,0,35.94,20.74,20.74
+"Lao PDR","LAO","East Asia & Pacific",2308.800482,"LMC",6845846,0,33.74,3.25,2.01
+"Latvia","LVA","Europe & Central Asia",14315.79289,"HIC",1959537,17.3,68.02,33.99,6
+"Lebanon","LBN","Middle East & North Africa",7629.891117,"UMC",6711121,4.13,88.27,36.82,11.42
+"Lesotho","LSO","Sub-Saharan Africa",1043.569791,"LMC",2075001,0,27.32,4.16,NA
+"Liberia","LBR","Sub-Saharan Africa",714.6233922,"LIC",4586788,6.38,50.25,11.82,NA
+"Libya","LBY","Middle East & North Africa",4035.194316,"UMC",6492164,6.17,79.54,27.95,NA
+"Liechtenstein","LIE","Europe & Central Asia",165629.1905,"HIC",37658,0,14.3,50.89,19.03
+"Lithuania","LTU","Europe & Central Asia",14998.12506,"HIC",2868231,2.87,67.37,46.73,1.58
+"Luxembourg","LUX","Europe & Central Asia",104278.391,"HIC",582014,0,90.46,111.64,2.55
+"Macao SAR, China","MAC","East Asia & Pacific",74061.08603,"HIC",612836,39.65,100,48.72,39.95
+"Macedonia, FYR","MKD","Europe & Central Asia",5129.15896,"UMC",2080745,0,57.56,53.21,14.33
+"Madagascar","MDG","Sub-Saharan Africa",475.9554172,"LIC",24894380,1.66,35.86,11.35,11.21
+"Malawi","MWI","Sub-Saharan Africa",315.7773264,"LIC",17205289,0,16.51,6.17,NA
+"Malaysia","MYS","East Asia & Pacific",9817.738457,"UMC",30684804,5.1,74.84,67.09,13.33
+"Maldives","MDV","South Asia",9209.244727,"UMC",475513,48.24,38.95,14.17,12.62
+"Mali","MLI","Sub-Saharan Africa",780.7185985,"LIC",17965429,0,40.78,2.46,NA
+"Malta","MLT","Middle East & North Africa",25617.82691,"HIC",455356,2.26,94.48,71.27,3.81
+"Marshall Islands","MHL","East Asia & Pacific",3473.775006,"UMC",57735,35.87,76.23,19.51,12.72
+"Mauritania","MRT","Sub-Saharan Africa",1536.85415,"LMC",4163534,19.12,51.96,27.52,15.61
+"Mauritius","MUS","Sub-Saharan Africa",9681.618567,"UMC",1263473,1.41,40.91,42.94,0.86
+"Mexico","MEX","Latin America & Caribbean",8744.515772,"UMC",123333376,1.58,79.58,47.86,11.01
+"Micronesia, Fed. Sts.","FSM","East Asia & Pacific",3014.700358,"LMC",110215,8.41,22.53,308.25,NA
+"Moldova","MDA","Europe & Central Asia",2880.439281,"LMC",2802170,0.59,42.51,130.15,143
+"Monaco","MCO","Europe & Central Asia",170028.6557,"HIC",38070,25.26,100,13.31,1.54
+"Mongolia","MNG","East Asia & Pacific",3660.150746,"LMC",3056359,0,68.3,137.58,137.58
+"Montenegro","MNE","Europe & Central Asia",7028.663454,"UMC",622303,0,66.14,100.5,97.07
+"Morocco","MAR","Middle East & North Africa",2896.720003,"LMC",35126296,1.38,61.36,16.23,9.09
+"Mozambique","MOZ","Sub-Saharan Africa",428.926488,"LIC",27829942,5.25,34.93,7.13,7.13
+"Myanmar","MMR","East Asia & Pacific",1266.546338,"LMC",53045226,10.97,30.08,16.16,16.16
+"Namibia","NAM","Sub-Saharan Africa",4523.091281,"UMC",2358041,1.09,47.96,20.85,20.33
+"Nauru","NRU","East Asia & Pacific",7670.116404,"UMC",13049,7.61,100,68.08,NA
+"Nepal","NPL","South Asia",777.1475955,"LIC",27261131,0,18.94,9.82,8.83
+"Netherlands","NLD","Europe & Central Asia",46007.85292,"HIC",17030314,58.51,90.64,73.46,1.47
+"New Caledonia","NCL","East Asia & Pacific",0,"HIC",276550,14,69.82,63.29,NA
+"New Zealand","NZL","East Asia & Pacific",40105.61339,"HIC",4693200,4.23,86.4,57.65,1.15
+"Nicaragua","NIC","Latin America & Caribbean",2107.572722,"LMC",6303974,0.85,58.09,32.61,30.06
+"Niger","NER","Sub-Saharan Africa",498.1041639,"LIC",20788838,0,16.29,4.12,4.04
+"Nigeria","NGA","Sub-Saharan Africa",2176.002245,"LMC",185960289,2.67,48.68,8.92,7.32
+"Northern Mariana Islands","MNP","East Asia & Pacific",22246.74308,"HIC",56188,1.85,91.44,90.8,59.93
+"Norway","NOR","Europe & Central Asia",70459.1825,"HIC",5234519,3.85,81.49,9.53,0.33
+"Oman","OMN","Middle East & North Africa",14618.73313,"HIC",4479219,5.65,82.5,90.44,90.44
+"Pakistan","PAK","South Asia",1368.454326,"LMC",203627284,1.06,36.23,13.42,9.66
+"Palau","PLW","East Asia & Pacific",16646.84908,"HIC",17725,3.45,78.78,170.19,NA
+"Panama","PAN","Latin America & Caribbean",14343.96363,"HIC",4037078,3.01,67.03,45.08,19.97
+"Papua New Guinea","PNG","East Asia & Pacific",2509.631457,"LMC",8271760,0.49,13.05,12.72,4.96
+"Paraguay","PRY","Latin America & Caribbean",5319.410218,"UMC",6777872,0,61.03,31.6,8.03
+"Peru","PER","Latin America & Caribbean",6204.99726,"UMC",30926032,0.92,77.54,29.72,17.36
+"Philippines","PHL","East Asia & Pacific",3073.653615,"LMC",103663927,5.65,46.48,14.89,11.02
+"Poland","POL","Europe & Central Asia",12447.43959,"HIC",37970087,1.75,60.18,35.33,0.71
+"Portugal","PRT","Europe & Central Asia",19978.40121,"HIC",10325452,3.63,64.09,49.59,0.99
+"Puerto Rico","PRI","Latin America & Caribbean",30627.1634,"HIC",3406672,8.91,93.6,134.1,28.83
+"Qatar","QAT","Middle East & North Africa",57163.07568,"HIC",2654374,12.83,99.02,63.04,1.26
+"Romania","ROU","Europe & Central Asia",9548.587403,"UMC",19702267,1.95,53.9,31.25,10.17
+"Russian Federation","RUS","Europe & Central Asia",8704.898413,"UMC",144342396,1.21,74.16,58.66,57.19
+"Rwanda","RWA","Sub-Saharan Africa",745.3427516,"LIC",11668818,0,17.06,28.18,NA
+"Samoa","WSM","East Asia & Pacific",4109.165135,"UMC",194535,1.44,18.68,19.36,6.77
+"San Marino","SMR","Europe & Central Asia",43826.92431,"HIC",33504,0,96.91,28.71,16.35
+"Sao Tome and Principe","STP","Sub-Saharan Africa",1700.046541,"LMC",203227,1.32,71.09,13.02,NA
+"Saudi Arabia","SAU","Middle East & North Africa",19879.29753,"HIC",32442572,5.2,83.4,55.79,1.12
+"Senegal","SEN","Sub-Saharan Africa",1269.902108,"LIC",14993528,10.06,46.3,14.73,14.27
+"Serbia","SRB","Europe & Central Asia",5765.200762,"UMC",7058322,0,55.81,41.83,19.16
+"Seychelles","SYC","Sub-Saharan Africa",15068.62035,"HIC",94677,16.64,55.83,56.38,NA
+"Sierra Leone","SLE","Sub-Saharan Africa",501.4157129,"LIC",7328838,3.79,41.23,8.49,NA
+"Singapore","SGP","East Asia & Pacific",56828.29535,"HIC",5607283,10.33,100,143.96,2.88
+"Slovak Republic","SVK","Europe & Central Asia",16508.67036,"HIC",5430798,0,53.81,36.74,2.81
+"Slovenia","SVN","Europe & Central Asia",21663.64341,"HIC",2065042,0.76,54.02,55.99,4.56
+"Solomon Islands","SLB","East Asia & Pacific",2225.490435,"LMC",619437,2.86,22.82,69.34,69.34
+"Somalia","SOM","Sub-Saharan Africa",126.9,"LIC",14185613,2.5,43.82,12.3,NA
+"South Africa","ZAF","Sub-Saharan Africa",5272.918425,"UMC",56203654,0.16,65.34,25.36,0.51
+"South Sudan","SSD","Sub-Saharan Africa",0,"LIC",10832512,0,19.09,19.77,NA
+"Spain","ESP","Europe & Central Asia",26505.34322,"HIC",46484062,4.38,79.84,39.42,0.79
+"Sri Lanka","LKA","South Asia",3886.291502,"LMC",21203000,2.98,18.31,8.52,7.42
+"St. Kitts and Nevis","KNA","Latin America & Caribbean",18810.48765,"HIC",51629,3.89,30.79,150.01,3
+"St. Lucia","LCA","Latin America & Caribbean",10361.8141,"UMC",180024,1.61,18.56,95.76,4.88
+"St. Martin (French part)","MAF","Latin America & Caribbean",0,"HIC",36065,0,0,66.97,NA
+"St. Vincent and the Grenadines","VCT","Latin America & Caribbean",7075.06582,"UMC",109459,3.71,51.37,24.37,7.45
+"Sudan","SDN","Sub-Saharan Africa",1299.261195,"LMC",39847440,0.3,34.12,9.31,5.68
+"Suriname","SUR","Latin America & Caribbean",5539.1179,"UMC",564883,56.19,66.04,16.09,16.09
+"Sweden","SWE","Europe & Central Asia",51965.15715,"HIC",9923085,3.74,86.85,29.36,0.59
+"Switzerland","CHE","Europe & Central Asia",80172.23209,"HIC",8373338,0,73.74,108.87,2.18
+"Syrian Arab Republic","SYR","Middle East & North Africa",2032.6,"LIC",17453933,0.13,52.84,15.44,14.98
+"Tajikistan","TJK","Europe & Central Asia",802.5180041,"LIC",8663579,0,26.85,20.34,20.34
+"Tanzania","TZA","Sub-Saharan Africa",966.4746224,"LIC",53050790,0.71,32.33,15.35,15.35
+"Thailand","THA","East Asia & Pacific",5994.231475,"UMC",68971331,10.34,48.45,69.54,43.29
+"Timor-Leste","TLS","East Asia & Pacific",1353.747925,"LMC",1219288,0.94,29.85,8.64,NA
+"Togo","TGO","Sub-Saharan Africa",597.4710888,"LIC",7509952,3.61,40.63,15.57,15.29
+"Tonga","TON","East Asia & Pacific",4158.288378,"UMC",101133,7.53,23.22,23.65,17.03
+"Trinidad and Tobago","TTO","Latin America & Caribbean",16176.94737,"HIC",1377564,2.91,53.25,101.75,90.77
+"Tunisia","TUN","Middle East & North Africa",3697.930831,"LMC",11303946,8.52,68.35,26.88,15.59
+"Turkey","TUR","Europe & Central Asia",10895.31869,"UMC",79821724,1.76,74.13,12.02,5.65
+"Turkmenistan","TKM","Europe & Central Asia",6389.548408,"UMC",5662372,0,50.73,2.19,0.59
+"Tuvalu","TUV","East Asia & Pacific",3255.928693,"UMC",11225,47.47,60.65,58.64,51.01
+"Uganda","UGA","Sub-Saharan Africa",733.4312512,"LIC",39647506,0,22.62,16.05,14.29
+"Ukraine","UKR","Europe & Central Asia",2187.73051,"LMC",45004674,1.8,69.15,23.41,11.48
+"United Arab Emirates","ARE","Middle East & North Africa",38141.84676,"HIC",9360980,14.78,85.97,109.88,70.32
+"United Kingdom","GBR","Europe & Central Asia",41064.13343,"HIC",65611593,5.31,82.89,98.66,4.51
+"United States","USA","North America",57951.58408,"HIC",322941311,2.51,81.86,130.09,3.51
+"Uruguay","URY","Latin America & Caribbean",15387.14403,"HIC",3424132,4.11,95.14,40.85,8.91
+"Uzbekistan","UZB","Europe & Central Asia",2567.799207,"LMC",31847900,0,50.65,3.63,3.63
+"Vanuatu","VUT","East Asia & Pacific",2889.853036,"LMC",278330,1.18,25.06,16.27,10.58
+"Venezuela, RB","VEN","Latin America & Caribbean",16054.5,"UMC",29846179,2.5,88.17,38.89,NA
+"Vietnam","VNM","East Asia & Pacific",2192.214539,"LMC",93638724,36.97,34.51,15,9.6
+"Virgin Islands (U.S.)","VIR","Latin America & Caribbean",35931.54125,"HIC",107510,5.44,95.48,206.43,NA
+"Yemen, Rep.","YEM","Middle East & North Africa",1138.682995,"LIC",27168210,1.58,35.39,17.8,14.6
+"Zambia","ZMB","Sub-Saharan Africa",1280.578447,"LMC",16363507,0,42.44,18.65,NA
+"Zimbabwe","ZWE","Sub-Saharan Africa",1464.583529,"LIC",14030390,0,32.3,29.49,25.36
